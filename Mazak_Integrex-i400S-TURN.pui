@@ -1,0 +1,19 @@
+## POSTBUILDER_VERSION=2005.0.3.2
+##############################################################################
+#                                                                            #
+#  This file is used by Post Builder to edit the parameters associated       #
+#  with a specific post processor.                                           #
+#                                                                            #
+#                                                                            #
+#  <WARNING> The contents of this file should not be modified!               #
+#                                                                            #
+##############################################################################
+#  Created by Batarev @ 20 ноября 2016 г. 14:20:56 RTZ 2 (Р·РёРјР°)
+#  with Post Builder version 6.0.3.
+#============================================================================#
+
+
+## POST EVENT HANDLER START
+def_file  Mazak_Integrex-i400S-TURN.def
+tcl_file  Mazak_Integrex-i400S-TURN.tcl
+## POST EVENT HANDLER END
