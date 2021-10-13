@@ -73,7 +73,7 @@ proc EXTN_rtv_mom_cp_part_attr { sw } {
     2 {
      #MOM_output_literal "(EXTN_rtv_mom_cp_part_attr 3)"
 
-   # "POLYFORM" ?
+     # "POLYFORM" ?
      global mom_pos
      global mom_poly_ang
      global mom_poly_dlina
